@@ -1,0 +1,15 @@
+{
+  "name": "burger-zone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/i-style.css -o src/o-style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.16"
+  }
+}
